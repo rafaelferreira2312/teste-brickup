@@ -51,7 +51,7 @@ Este projeto tem como objetivo projetar uma arquitetura de software na AWS para 
 ## Diagramas de Infraestrutura
 
 Os diagramas estão incluídos na documentação anexada ao repositório e podem ser visualizados aqui:
-![Arquitetura AWS](assets/images/projeto-de-construcao-em-nuvem-AWS.jpg)
+![Arquitetura AWS](/projeto%20de%20construção%20em%20nuvem%20-%20AWS.jpgprojeto-de-construcao-em-nuvem-AWS.jpg)
 
 ## Justificativa para Escolhas de Serviços
 
